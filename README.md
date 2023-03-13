@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone 👋
 
 I am Andriamihaja R.
 
