@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Andriamihaja R.
+
+- 🔭 I’m currently working on Climate Analysis and prediction 
+- 🌱 I’m currently learning Python and R
+- 🤔 I’m looking for help with such main idea
+
+
 <!--
 **Dihj/dihj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
