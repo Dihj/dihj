@@ -4,7 +4,7 @@ I am Andriamihaja R.
 
 - 🔭 I’m currently working on Climate Analysis and prediction 
 - 🌱 I’m currently learning Python and R
-- 🤔 I’m looking for help with such main idea
+
 
 
 <!--
@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤔 I’m looking for help with such main idea
 -->
